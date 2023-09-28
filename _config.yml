@@ -1,0 +1,10 @@
+title: PetBite
+description: Organization page for PetBite
+remote_theme: pages-themes/minimal@v0.2.0
+google_analytics:
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/PetBite/app
+plugins:
+- jekyll-remote-theme
