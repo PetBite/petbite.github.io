@@ -12,7 +12,7 @@ There are many people who are or want to be pet owners, but don't know all there
 
 ## Goals
 
-Our primary goal is to have a functioning mobile app in which users can recieve direct feedback regarding their pet's nutritional needs based on pet information such as weight, height, breed, and age. The app will provide feedback via chatGPT as well as other users who have similar pets. In service of making pet nutrition and health easy to digest we also have a tracker that keeps track of a pet's meal and exercise times, as well as a pet food page with information and links to buy brands of pet food. Lastly, our app also aims to encourage community interaction and will have a message board where users can create and respond to posts.  
+Our primary goal is to have a functioning mobile app in which users can receive direct feedback regarding their pet's nutritional needs based on pet information such as weight, height, breed, and age. The app will provide feedback via chatGPT as well as other users who have similar pets. In service of making pet nutrition and health easy to digest, we also have a tracker that keeps track of a pet's meal and exercise times, as well as a pet food page with information and links to buy brands of pet food. Lastly, our app also aims to encourage community interaction and will have a message board where users can create and respond to posts.  
 
 ## Usage
 
