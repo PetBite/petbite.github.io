@@ -20,7 +20,7 @@ Our primary goal is to have a functioning mobile app in which users can receive 
 
 ## Installation
 
-Our project code can be found here: https://github.com/PetBite/app
+Our project code can be found [here](https://github.com/PetBite/app)
 
 In order to run our code simply:
 - download the repo from the provided link
@@ -28,7 +28,7 @@ In order to run our code simply:
 
 ## Development Status
 
-Our development status can be found here: https://github.com/orgs/PetBite/projects/1
+Our development status can be found [here](https://github.com/orgs/PetBite/projects/1)
 
 ## About Us
 
