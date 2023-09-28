@@ -29,7 +29,6 @@ Our development status can be found here: https://github.com/orgs/PetBite/projec
 ## About Us
 
 Our team consists of three members:
-
-[Braydon Nagasako](https://github.com/Breadonn)
-[Wenhao Qiu](https://github.com/wenhaoq20)
-[Keaton Wong](https://github.com/KeatonWong)
+- [Braydon Nagasako](https://github.com/Breadonn)
+- [Wenhao Qiu](https://github.com/wenhaoq20)
+- [Keaton Wong](https://github.com/KeatonWong)
