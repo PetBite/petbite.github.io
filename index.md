@@ -16,7 +16,8 @@ Our primary goal is to have a functioning mobile app in which users can receive 
 
 ## Usage
 
-[Implemented pages]
+* ### Login Page
+![](images/login.png)
 
 ## Installation
 
