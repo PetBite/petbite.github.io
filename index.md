@@ -17,7 +17,9 @@ Our primary goal is to have a functioning mobile app in which users can receive 
 ## Usage
 
 * ### Login Page
-Users will be able to login through this page using their credentials, or through a linked facebook/apple account. If a user has forgotten their password or doesn't have an account, they can press the "Forgot Password?" or "Register" buttons respectively to be redirected to the appropriate page. ![](images/login.png)
+Users will be able to login through this page using their credentials, or through a linked facebook/apple account. If a user has forgotten their password or doesn't have an account, they can press the "Forgot Password?" or "Register" buttons respectively to be redirected to the appropriate page.
+
+![](images/login.png)
 
 ## Installation
 
