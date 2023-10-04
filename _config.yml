@@ -7,4 +7,4 @@ github:
   is_project_page: true
   repository_url: https://github.com/PetBite/app
 plugins:
-- jekyll-remote-theme
+- jekyll-theme-slate
