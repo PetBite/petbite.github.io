@@ -21,6 +21,44 @@ Users will be able to login through this page using their credentials, or throug
 
 ![](images/login.png)
 
+* ### Register Page
+
+![](images/register.png)
+
+* ### Home Page
+
+![](images/home.png)
+
+* ### Feeding Schedule Page
+
+![](images/feeding_schedule.png)
+
+* ### Activity Log Page
+
+![](images/activity_log.png)
+
+* ### Community Forum Page
+
+![](images/community_forum.png)
+
+* ### DM List Page
+
+
+
+* ### Pet Food List Page
+
+
+
+* ### Detailed Pet Food Page
+
+* ### Pet Details Page
+
+![](images/pet_details.png)
+
+* ### Settings Page
+
+![](images/settings.png)
+
 ## Installation
 
 Our project code can be found [here](https://github.com/PetBite/app)
