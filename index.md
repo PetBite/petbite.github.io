@@ -49,15 +49,19 @@ Users can communicate with other users in this application through this page, wh
 * ### DM List Page
 Users can check their private conversation with other users on this page.
 
+<img src="images/dm_list.png" alt="drawing" width="250"/>
 
 * ### Pet Food List Page
 Users get recommended pet food based on user's pet information and advice from the community. On this page, user can filter and search for different pet food. Then user can click on the pet food and there will be recommendations from both AI and community.
 
 
+<img src="images/pet_food_list.png" alt="drawing" width="250"/>
 
 * ### Detailed Pet Food Page
 This page provides more information about the pet food the user selects from the Pet Food List page based on AI-generated information. Users can also add their personal review of the pet food.
 
+
+<img src="images/detailed_pet_food.png" alt="drawing" width="250"/>
 
 * ### Pet Details Page
 Users can input information about their pet on this page. Each pet an owner registers in the app will have their own details page, and it is here where users will be able to update information or delete new pets. Text boxes will be available for all the different aspects of their pet, including things like name, weight, breed, etc. It is also from here that the app will gather information about the pet and determine nutritional suggestions. 
