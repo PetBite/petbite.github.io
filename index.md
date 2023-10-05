@@ -19,27 +19,27 @@ Our primary goal is to have a functioning mobile app in which users can receive 
 * ### Login Page
 Users will be able to login through this page using their credentials, or through a linked facebook/apple account. If a user has forgotten their password or doesn't have an account, they can press the "Forgot Password?" or "Register" buttons respectively to be redirected to the appropriate page.
 
-![](images/login.png)
+<img src="images/login.png" alt="drawing" width="250"/>
 
 * ### Register Page
 
-![](images/register.png)
+<img src="images/register.png" alt="drawing" width="250"/>
 
 * ### Home Page
 
-![](images/home.png)
+<img src="images/home.png" alt="drawing" width="250"/>
 
 * ### Feeding Schedule Page
 
-![](images/feeding_schedule.png)
+<img src="images/feeding_schedule.png" alt="drawing" width="250"/>
 
 * ### Activity Log Page
 
-![](images/activity_log.png)
+<img src="images/activity_log.png" alt="drawing" width="250"/>
 
 * ### Community Forum Page
 
-![](images/community_forum.png)
+<img src="images/community_forum.png" alt="drawing" width="250"/>
 
 * ### DM List Page
 
@@ -53,11 +53,11 @@ Users will be able to login through this page using their credentials, or throug
 
 * ### Pet Details Page
 
-![](images/pet_details.png)
+<img src="images/pet_details.png" alt="drawing" width="250"/>
 
 * ### Settings Page
 
-![](images/settings.png)
+<img src="images/settings.png" alt="drawing" width="250"/>
 
 ## Installation
 
