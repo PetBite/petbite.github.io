@@ -3,7 +3,7 @@
 * [Goals](#goals)
 * [Usage](#usage)
 * [Installation](#installation)
-* [Development Status](#development-statuds)
+* [Development Status](#development-status)
 * [About Us](#about-us)
 
 ## Motivation
