@@ -12,7 +12,7 @@ There are many people who are or want to be pet owners, but don't know all there
 
 ## Goals
 
-Our primary goal is to have a functioning mobile app in which users can receive direct feedback regarding their pet's nutritional needs based on pet information such as weight, height, breed, and age. The app will provide feedback via chatGPT as well as other users who have similar pets. In service of making pet nutrition and health easy to digest, we also have a tracker that keeps track of a pet's meal and exercise times, as well as a pet food page with information and links to buy brands of pet food. Lastly, our app also aims to encourage community interaction and will have a message board where users can create and respond to posts.  
+Our primary goal is to have a functioning mobile application in which users can receive direct feedback regarding their pet's nutritional needs based on pet information such as weight, height, breed, and age. The application will provide feedback via chatGPT as well as other users who have similar pets. In service of making pet nutrition and health easy to digest, we also have a tracker that keeps track of a pet's meal and exercise times, as well as a pet food page with information and links to buy brands of pet food. Lastly, our application also aims to encourage community interaction and will have a message board where users can create and respond to posts.  
 
 ## Usage
 
@@ -27,7 +27,7 @@ Users can create a PetBite account on this page by providing a username, a valid
 <img src="images/register.png" alt="drawing" width="250"/>
 
 * ### Home Page
-After logging in, the user is presented with the home page. If the user is new to the application, they would be asked to enter and upload information about their pet. Once the pet's information is entered, the user would see an overview of their pet's information and AI-generated tips for their pet. If the user has multiple pets entered into the application, they can switch to different pets by swiping up on this screen and a navbar would appear at the top of the screen. The navbar contains a row of the owner's pet pictures and the user can switch to different pet's page by clicking on one of the pictures.
+After logging in, the user is presented with the home page. If the user is new to the application, they would be asked to enter and upload information about their pet. Once the pet's information is entered, the user would see an overview of their pet's information and AI-generated tips for their pet. If the user has multiple pets entered into the application, they can switch to different pets by swiping up on this page and a navbar would appear at the top of the page. The navbar contains a row of the owner's pet pictures and the user can switch to different pet's page by clicking on one of the pictures.
 
 <img src="images/home.png" alt="drawing" width="250"/>
 
@@ -42,7 +42,7 @@ Users can log their pet's daily activities on this page. Logs are tracked in a s
 <img src="images/activity_log.png" alt="drawing" width="250"/>
 
 * ### Community Forum Page
-Users can communicate with other users in this application through this screen, which includes a scrolling bar at the top of the application with circles representing different communities. The selected community is highlighted at the top to indicate which community the user is currently in. Below that are post previews from other users. Each post preview includes a like, comment, and share button/status. The preview shows the post's title, content, and images, if uploaded. When a user clicks on one, the page changes to the post page where they can view the post in more detail. At the bottom of the page is a plus sign that allows the user to write their own post. Clicking this button takes the user to the Create Post page.
+Users can communicate with other users in this application through this page, which includes a scrolling bar at the top of the application with circles representing different communities. The selected community is highlighted at the top to indicate which community the user is currently in. Below that are post previews from other users. Each post preview includes a like, comment, and share button/status. The preview shows the post's title, content, and images, if uploaded. When a user clicks on one, the page changes to the post page where they can view the post in more detail. At the bottom of the page is a plus sign that allows the user to write their own post. Clicking this button takes the user to the Create Post page.
 
 <img src="images/community_forum.png" alt="drawing" width="250"/>
 
@@ -51,16 +51,22 @@ Users can check their private conversation with other users on this page.
 
 
 * ### Pet Food List Page
+Users get recommended pet food based on user's pet information and advice from the community. On this page, user can filter and search for different pet food. Then user can click on the pet food and there will be recommendations from both AI and community.
 
 
 
 * ### Detailed Pet Food Page
+This page provides more information about the pet food the user selects from the Pet Food List page based on AI-generated information. Users can also add their personal review of the pet food.
+
 
 * ### Pet Details Page
+Users can input information about their pet on this page. Each pet an owner registers in the app will have their own details page, and it is here where users will be able to update information or delete new pets. Text boxes will be available for all the different aspects of their pet, including things like name, weight, breed, etc. It is also from here that the app will gather information about the pet and determine nutritional suggestions. 
+
 
 <img src="images/pet_details.png" alt="drawing" width="250"/>
 
 * ### Settings Page
+Users can change their profile and the application's settings (notifications, time, language, location, etc...) on this page. There is also a help page in case users need support for this application.
 
 <img src="images/settings.png" alt="drawing" width="250"/>
 
