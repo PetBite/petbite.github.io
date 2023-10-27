@@ -36,6 +36,12 @@ Users can choose between an AI-generated feeding schedule or enter their own fee
 
 <img src="images/feeding_schedule.png" alt="drawing" width="250"/>
 
+
+* ### Edit Feeding Schedule Page
+Users can add or edit the feeding schedule throughout the week for their pet by inputting the meal name (breakfast, lunch, dinner), time of the meal, the pet food name, and the quantity of the pet food.
+
+<img src="images/edit_feeding_schedule.png" alt="drawing" width="250"/>
+
 * ### Activity Log Page
 Users can log their pet's daily activities on this page. Logs are tracked in a simple scrolling list of activities, all of which are time stamped. The plus button on the bottom right allows the user to add activity logs. Activities are also separated by day markers.
 
@@ -86,8 +92,15 @@ Users can input information about their pet on this page. Each pet an owner regi
 
 <img src="images/pet_details.png" alt="drawing" width="250"/>
 
+
+* ### Profile Page
+Users can change their profile name, picture, access account information and settings page.
+
+<img src="images/profile.png" alt="drawing" width="250"/>
+
+
 * ### Settings Page
-Users can change their profile and the application's settings (notifications, time, language, location, etc...) on this page. There is also a help page in case users need support for this application.
+Users can change the application's settings (notifications, time, language, location, etc...) on this page. There is also a help page in case users need support for this application.
 
 <img src="images/settings.png" alt="drawing" width="250"/>
 
