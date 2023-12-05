@@ -4,8 +4,8 @@
 - Able to quickly Upload/modify their pet's information (name, breed, weight, age, etc...).
 - Able to easily view and add their pet's activities.
 - Able to maintain an accurate and consistent daily feeding schedule for their pet.
-- Able to easily keep track of their pet's weight overtime.
-- 
+- ABle to add multiple different pets and track them seperately
+<!-- Able to easily keep track of their pet's weight overtime. -->
 
 ## Scenarios
 ### Task: Quickly upload/modify pet's information
@@ -23,10 +23,10 @@ Scenario #1: Imagine you are a new pet owner and want to make sure your pet is m
 Scenario #1: Imagine you are a new pet owner and while you've done your research, there's so much to keep track of. You heard of an app called PetBite from a friend and downloaded it. You want to be able to easily input times and amounts to feed your pet so when it's time to feed your pet you get a notification with details on how much to feed your pet. Create a schedule for your pet to follow throughout the week. 
 <br> Successful behavior: New user is able to input feeding schedule information and receive notifications at the provided times
 
-### Task: Able to keep track of their pet's weight overtime
+<!-- ### Task: Able to keep track of their pet's weight overtime
 
 Scenario #1: Imagine you are the owner of an older pet who has started to gain weight. You are concerned and begin an effort to get their weight back to a healthy level. You have downloaded the PetBite app and have your pet's information filled in, but you want to keep track of your pet's weight over an extended period of time to see their progress.
-<br> Successful behavior: User is able to input new weights and still have a way to view what their pet's old weight was and how much porgress they've made.
+<br> Successful behavior: User is able to input new weights and still have a way to view what their pet's old weight was and how much porgress they've made. -->
 
 ### Task: Able to add multiple different pets and keep track of them seperately
 
