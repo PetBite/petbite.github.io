@@ -128,4 +128,4 @@ The first 2 sections of this evaluation.md file were used as the test script thr
 ### Top 3 Usability Problems
 1. [Address bug discovered on deployed app in Edit Feeding Schedule page](https://github.com/PetBite/app/issues/112)
 2. [Make functionality of components more obvious through appearance/design](https://github.com/PetBite/app/issues/113)
-3. [Change submit and reset button's locations to be more natural](https://github.com/PetBite/app/issues/114)
+3. [Change submit and reset buttons' locations to be more natural](https://github.com/PetBite/app/issues/114)
