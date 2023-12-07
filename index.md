@@ -58,10 +58,10 @@ Users can add or edit the feeding schedule throughout the week for their pet by 
 Users can log their pet's daily activities on this page. Logs are tracked in a simple scrolling list of activities, all of which are time stamped. The plus button on the bottom right allows the user to add activity logs. Activities are also separated by day markers.
 
 <p style="text-align: center">
-    <img src="images/activity_log.png" alt="drawing" width="200"/>
-    <img src="images/add_activity_log.png" alt="drawing" width="200"/>
-    <img src="images/edit_activity_log.png" alt="drawing" width="200"/>
-    <img src="images/indiv_activity.png" alt="drawing" width="200"/>
+    <img src="images/activity_log.png" alt="drawing" width="170"/>
+    <img src="images/add_activity_log.png" alt="drawing" width="170"/>
+    <img src="images/edit_activity_log.png" alt="drawing" width="170"/>
+    <img src="images/indiv_activity.png" alt="drawing" width="170"/>
 </p>
 
 * ### Detailed Activity Log Page
