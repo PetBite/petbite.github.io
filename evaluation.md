@@ -15,13 +15,13 @@
 
 
 ## User Goals
-- Able to quickly upload/modify their pet's information (name, breed, weight, age, etc...).
+- Able to quickly upload their pet's information (name, breed, weight, age, etc...).
 - Able to easily view and add their pet's activities.
 - Able to maintain an accurate and consistent daily feeding schedule for their pet.
 - Able to add multiple different pets and track them seperately
 
 ## Scenarios
-### Task: Quickly upload/modify pet's information
+### Task: Quickly upload pet's information
 
 - Scenario: Imagine you are a pet owner and recently discovered the PetBite app. You log in and are prompted to add your pet information to begin using the app. Add pet information and begin using the app. 
 - Successful behavior: Successfully entering all required pet's information quickly and create a profile.
