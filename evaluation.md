@@ -48,7 +48,7 @@ Pet owners, and potential pet adopters.
 
 [Consent form](consent/Recording_consent_form_PetBite.pdf)
 <br>
-[Signed participants' consent forms](consent/)
+[Signed participants' consent forms](https://github.com/PetBite/petbite.github.io/tree/main/consent)
 
 
 ## Recruitment
@@ -57,12 +57,12 @@ Pet owners, and potential pet adopters.
 
 ## Participant descriptions
 - A - Non-pet owner
-- B - Experienced pet owner
+- B - Experienced pet owner - Slightly overweight dog
 - C - Non-pet owner
-- D - Experienced pet owner
+- D - Experienced pet owner - Healthy turtle and cat
 - E - Aspiring pet owner
-- F - Experienced pet owner
-- G - Experienced pet owner
+- F - Experienced pet owner - Healthy dog
+- G - Experienced pet owner - Slightly overweight cat
 - H - Non-pet owner
 
 ## Test Locations
