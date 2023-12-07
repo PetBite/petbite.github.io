@@ -35,8 +35,9 @@ Users can create a PetBite account on this page by providing a username, a valid
 After logging in, the user is presented with the home page. If the user is new to the application, they would be asked to enter and upload information about their pet. Once the pet's information is entered, the user would see an overview of their pet's information and AI-generated tips for their pet. The user can also update their pet's information later on. If the user has multiple pets entered into the application, they can switch to different pets by swiping up on this page and a navbar would appear at the top of the page. The navbar contains a row of the owner's pet pictures and the user can switch to different pet's page by clicking on one of the pictures.
 
 <p style="text-align: center">
-    <img src="images/home.png" alt="drawing" width="250"/>
-    <img src="images/home2.png" alt="drawing" width="250"/>
+    <img src="images/home.png" alt="drawing" width="200"/>
+    <img src="images/home2.png" alt="drawing" width="200"/>
+    <img src="images/pet-list.png" alt="drawing" width="200"/>
 </p>
 
 * ### Feeding Schedule Page
