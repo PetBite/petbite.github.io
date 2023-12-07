@@ -23,23 +23,23 @@
 ## Scenarios
 ### Task: Quickly upload/modify pet's information
 
-Scenario: Imagine you are a pet owner and recently discovered the PetBite app. You log in and are prompted to add your pet information to begin using the app. Add pet information and begin using the app. 
-<br> Successful behavior: Successfully entering all required pet's information quickly and create a profile.
+- Scenario: Imagine you are a pet owner and recently discovered the PetBite app. You log in and are prompted to add your pet information to begin using the app. Add pet information and begin using the app. 
+- Successful behavior: Successfully entering all required pet's information quickly and create a profile.
 
 ### Task: Able to easily view and add their pet's activities
 
-Scenario: You were told that the PetBite app has a way to add and track pet activities and you think it's a good way to ensure your pet is getting the exercise it needs. Add a pet activity and view its details. 
-<br> Successful behavior: Successfully create pet activities and able to view and keep track of them easily.
+- Scenario: You were told that the PetBite app has a way to add and track pet activities and you think it's a good way to ensure your pet is getting the exercise it needs. Add a pet activity and view its details. 
+- Successful behavior: Successfully create pet activities and able to view and keep track of them easily.
 
 ### Task: Able to create and maintain a consistent daily feeding schedule for the user to follow 
 
-Scenario: You were told that there is a way to establish and keep track of a feeding schedule for your pet in the PetBite app. Create a feeding schedule for the week.
-<br> Successful behavior: User is able to input feeding schedule information for the week
+- Scenario: You were told that there is a way to establish and keep track of a feeding schedule for your pet in the PetBite app. Create a feeding schedule for the week.
+- Successful behavior: User is able to input feeding schedule information for the week
 
 ### Task: Able to add multiple different pets and keep track of them seperately
 
-Scenario: Imagine that you are the owner of multiple pets. Many of these pets have different schedules so it's not as easy to keep track of their food intake, activities throughout the week, and feeding is not as simple as feeding everyone at "lunchtime". Add an additional pet(s) and add activities and a feeding schedule for it. 
-<br> Successful behavior: User is able to add and track multiple different pets. 
+- Scenario: Imagine that you are the owner of multiple pets. Many of these pets have different schedules so it's not as easy to keep track of their food intake, activities throughout the week, and feeding is not as simple as feeding everyone at "lunchtime". Add an additional pet(s) and add activities and a feeding schedule for it. 
+- Successful behavior: User is able to add and track multiple different pets. 
 
 ## User Types
 Pet owners, and potential pet adopters.
