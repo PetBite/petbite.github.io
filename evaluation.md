@@ -4,7 +4,7 @@
 * [User Goals](#user-goals)
 * [Scenarios](#scenarios)
 * [User Types](#user-types)
-* [Conset](#consent)
+* [Consent](#consent)
 * [Recruitment](#recruitment)
 * [Participant Description](#participant-descriptions)
 * [Test Locations](#test-locations)
@@ -15,34 +15,35 @@
 
 
 ## User Goals
-- Able to quickly upload their pet's information (name, breed, weight, age, etc...).
-- Able to easily view and add their pet's activities.
-- Able to maintain an accurate and consistent daily feeding schedule for their pet.
+- Able to quickly upload their pet's information (name, breed, weight, age, etc...)
+- Able to easily add and view their pet's activities
+- Able to maintain an accurate and consistent daily feeding schedule for their pet
 - Able to add multiple different pets and track them seperately
 
 ## Scenarios
-### Task: Quickly upload pet's information
+### Task: Quickly upload pet information
 
-- Scenario: Imagine you are a pet owner and recently discovered the PetBite app. You log in and are prompted to add your pet information to begin using the app. Add pet information and begin using the app. 
-- Successful behavior: Successfully entering all required pet's information quickly and create a profile.
+- Scenario: Imagine you are a pet owner and recently discovered the PetBite app. You log in and are prompted to add your pet's information to begin using the app. Add your pet's information and begin using the app. 
+- Successful behavior: User is able to enter all required pet information quickly and access the rest of the app
 
-### Task: Able to easily view and add their pet's activities
+### Task: Add and view pet activities
 
-- Scenario: You were told that the PetBite app has a way to add and track pet activities and you think it's a good way to ensure your pet is getting the exercise it needs. Add a pet activity and view its details. 
-- Successful behavior: Successfully create pet activities and able to view and keep track of them easily.
+- Scenario: You were told that the PetBite app has a way to add and track pet activities and you think it's a good way to ensure your pet is getting the exercise it needs. Add an activity for your pet and view its details. 
+- Successful behavior: User is able to create pet activities and view and keep track of them easily
 
-### Task: Able to create and maintain a consistent daily feeding schedule for the user to follow 
+### Task: Create and maintain a consistent daily feeding schedule
 
 - Scenario: You were told that there is a way to establish and keep track of a feeding schedule for your pet in the PetBite app. Create a feeding schedule for the week.
 - Successful behavior: User is able to input feeding schedule information for the week
 
-### Task: Able to add multiple different pets and keep track of them seperately
+### Task: Add multiple different pets and keep track of them seperately
 
-- Scenario: Imagine that you are the owner of multiple pets. Many of these pets have different schedules so it's not as easy to keep track of their food intake, activities throughout the week, and feeding is not as simple as feeding everyone at "lunchtime". Add an additional pet(s) and add activities and a feeding schedule for it. 
-- Successful behavior: User is able to add and track multiple different pets. 
+- Scenario: Imagine that you are the owner of multiple pets. Many of these pets have different schedules so it's not as easy to keep track of their food intake, activities throughout the week, and feeding is not as simple as feeding everyone at "lunchtime". Add an additional pet(s), and add activities and a feeding schedule for it. 
+- Successful behavior: User is able to add and track multiple different pets
 
 ## User Types
-Pet owners, and potential pet adopters.
+- pet owners
+- non-pet owners
 
 ## Consent
 
@@ -52,8 +53,8 @@ Pet owners, and potential pet adopters.
 
 
 ## Recruitment
-- Ask people around us like friends classmates, and family members
-- Post on online pet's communities
+- friends, family and classmates
+- post on online pet communities
 
 ## Participant descriptions
 - A - Non-pet owner
