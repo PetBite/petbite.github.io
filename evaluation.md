@@ -46,6 +46,9 @@ Pet owners, and potential pet adopters.
 
 ## Consent
 
+[Consent form](consent/Recording_consent_form_PetBite.pdf)
+<br>
+[Signed participants' consent forms](consent/)
 
 
 ## Recruitment
