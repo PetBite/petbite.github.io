@@ -4,6 +4,7 @@
 * [Usage](#usage)
 * [Installation](#installation)
 * [Development Status](#development-status)
+* [Usability Evaluation](#usability-evaluation)
 * [About Us](#about-us)
 
 ## Motivation
@@ -129,6 +130,7 @@ Users can change their profile name, picture, access account information and set
 
 <p style="text-align: center">
     <img src="images/profile.png" alt="drawing" width="250"/>
+    <img src="images/account_info.png" alt="drawing" width="250"/>
 </p>
 
 * ### Settings Page
@@ -146,9 +148,15 @@ In order to run our code simply:
 - download the repo from the provided link
 - invoke flutter run
 
+The mobile app is also deployed on Google Play Console
+
 ## Development Status
 
 Our development status can be found [here](https://github.com/orgs/PetBite/projects/1)
+
+## Usability Evaluation
+
+The project's usability evaluation can be found [here](https://petbite.github.io/evaluation.html) (updated 12/6/2023)
 
 ## About Us
 
