@@ -1,5 +1,19 @@
 # PetBite Usability Evaluation
 
+## Table of Contents
+* [User Goals](#user-goals)
+* [Scenarios](#scenarios)
+* [User Types](#user-types)
+* [Conset](#consent)
+* [Recruitment](#recruitment)
+* [Participant Description](#participant-descriptions)
+* [Test Locations](#test-locations)
+* [Test Script](#test-script)
+* [Raw Data](#raw-data)
+* [Results](#results)
+
+
+
 ## User Goals
 - Able to quickly upload/modify their pet's information (name, breed, weight, age, etc...).
 - Able to easily view and add their pet's activities.
@@ -39,14 +53,14 @@ Pet owners, and potential pet adopters.
 - Post on online pet's communities
 
 ## Participant descriptions
-A - Non-pet owner
-B - Experienced pet owner
-C - Non-pet owner
-D - Experienced pet owner
-E - Aspiring pet owner
-F - Experienced pet owner
-G - Experienced pet owner
-H - Non-pet owner
+- A - Non-pet owner
+- B - Experienced pet owner
+- C - Non-pet owner
+- D - Experienced pet owner
+- E - Aspiring pet owner
+- F - Experienced pet owner
+- G - Experienced pet owner
+- H - Non-pet owner
 
 ## Test Locations
 
@@ -58,25 +72,57 @@ The first 2 sections of this evaluation.md file were used as the test script thr
 
 ## Raw Data
 
-A (Emulator)- Task 1: User went through the input fields and filled them out normally, then clicked the submit button. Task 2: User added an activity and was able to view it easily. Task 3: Screen was bugged and user was not able to add a feeding schedule effectively. Task 4: User was able to find the add pet option and added a pet normally.
+<b> A (Emulator): </b>
+- Task 1: User went through the input fields and filled them out normally, then clicked the submit button. 
+- Task 2: User added an activity and was able to view it easily. 
+- Task 3: Screen was bugged and user was not able to add a feeding schedule effectively. 
+- Task 4: User was able to find the add pet option and added a pet normally.
 
-B (Emulator)- Task 1: User went through the input fields and filled them out normally (albeit with wacky information due to lack of form validation), then clicked the submit button. Task 2: User added an activity and was able to view it, although they didn't realise how they viewed the activity initially. Task 3: Screen was bugged and user was not able to add a feeding schedule. Task 4: User was able to find the add pet option and added a pet normally, but noted that it would be better if there was a more clear indicator of the "Your Pets" dropdown menu.
+<b> B (Emulator): </b>
+- Task 1: User went through the input fields and filled them out normally (albeit with wacky information due to lack of form validation), then clicked the submit button. 
+- Task 2: User added an activity and was able to view it, although they didn't realise how they viewed the activity initially.
+- Task 3: Screen was bugged and user was not able to add a feeding schedule. 
+- Task 4: User was able to find the add pet option and added a pet normally, but noted that it would be better if there was a more clear indicator of the "Your Pets" dropdown menu.
 
-C (Own device)- Task 1: User went through the input fields and filled them out normally, then pressed the submit button. Task 2: User added an activity but could not figure out how to view the detailed information. Task 3: User was able to add entries to the schedule through trial and error despite bugs with the screen (It was not easy or fast). Task 4: User was unable to find the "Your Pets" dropdown menu without guidance, but noted that it's easy to understand once you know how, and was able to add additional pets once there. 
+<b> C (Own device): </b>
+- Task 1: User went through the input fields and filled them out normally, then pressed the submit button. 
+- Task 2: User added an activity but could not figure out how to view the detailed information. 
+- Task 3: User was able to add entries to the schedule through trial and error despite bugs with the screen (It was not easy or fast). 
+- Task 4: User was unable to find the "Your Pets" dropdown menu without guidance, but noted that it's easy to understand once you know how, and was able to add additional pets once there. 
 
-D (Own device) - Task 1: User went through the input fields and filled them out with their own pet's information, then pressed the submit button. Task 2: User added an activity and was able to view the detailed information easily. Task 3: User was able to add entries to the schedule through trial and error despite bugs with the screen. Wanted the page to be synced with the current day, as each time he went back to the main schedule page it would default to Monday. Task 4: User was able to figure out how to add additional pets, but noted that it would be better if there was a more clear indicator of the "Your Pets" dropdown menu.
+<b> D (Own device): </b>
+- Task 1: User went through the input fields and filled them out with their own pet's information, then pressed the submit button. 
+- Task 2: User added an activity and was able to view the detailed information easily.  
+- Task 3: User was able to add entries to the schedule through trial and error despite bugs with the screen. Wanted the page to be synced with the current day, as each time he went back to the main schedule page it would default to Monday. 
+- Task 4: User was able to figure out how to add additional pets, but noted that it would be better if there was a more clear indicator of the "Your Pets" dropdown menu.
 
-E (Emulator) - Task 1: User went through the input fields and filled them out normally, then pressed the submit button. Task 2: User added an activity, but took a little bit to figure out how to view the detailed information. Task 3: Screen was bugged and user was not able to add a feeding schedule. Task 4: User was able to find the add pet option and added a pet normally. 
+<b> E (Emulator): </b>
+- Task 1: User went through the input fields and filled them out normally, then pressed the submit button. 
+- Task 2: User added an activity, but took a little bit to figure out how to view the detailed information.
+- Task 3: Screen was bugged and user was not able to add a feeding schedule. 
+- Task 4: User was able to find the add pet option and added a pet normally. 
 
-F (PetBite team member device) - Task 1: User went through the input fields and filled them out with their own pet's information, then pressed the submit button. Task 2: User added an activity, but was unable to figure out how to view the detailed information without guidance. Task 3: User attempted to add information to the feeding schedule but was unable to add information easily due to a bug. Task 4: User was unable to find the "Your Pets" dropdown menu without guidance, but was able to add another pet once there.
+<b> F (PetBite team member device): </b>
+- Task 1: User went through the input fields and filled them out with their own pet's information, then pressed the submit button. 
+- Task 2: User added an activity, but was unable to figure out how to view the detailed information without guidance. 
+- Task 3: User attempted to add information to the feeding schedule but was unable to add information easily due to a bug. 
+- Task 4: User was unable to find the "Your Pets" dropdown menu without guidance, but was able to add another pet once there.
 
-G (Own device) - Task 1: User went through the input fields and filled them out easily. Task 2: User added an activity and was able to view the detailed information easily. Task 3: Added schedule information but noted that it was confusing to setup because it was difficult to tell which meal they were inputting information for, but liked how simple it was. Task 4: User was able to add an additional pet and noted the "Your Pets" dropdown menu was nice and convenient.
+<b> G (Own device): </b>
+- Task 1: User went through the input fields and filled them out easily. 
+- Task 2: User added an activity and was able to view the detailed information easily. 
+- Task 3: Added schedule information but noted that it was confusing to setup because it was difficult to tell which meal they were inputting information for, but liked how simple it was. 
+- Task 4: User was able to add an additional pet and noted the "Your Pets" dropdown menu was nice and convenient.
 
-H (Own device) - Task 1: User went through the input fields and filled them out easily. Task 2: User added an activity and was able to view the detailed information, but noted it was slightly confusing to figure out what information to add. Task 3: User was able to add information to the feeding schedule but ran into a bug on the screen making it difficult. Task 4: User felt the "Your Pets" dropdown menu was difficult to find. They also noted it was difficult to figure out which pet you were editing information for. 
+<b> H (Own device): </b>
+- Task 1: User went through the input fields and filled them out easily. 
+- Task 2: User added an activity and was able to view the detailed information, but noted it was slightly confusing to figure out what information to add. 
+- Task 3: User was able to add information to the feeding schedule but ran into a bug on the screen making it difficult. 
+- Task 4: User felt the "Your Pets" dropdown menu was difficult to find. They also noted it was difficult to figure out which pet you were editing information for. 
 
 ## Results
 
 ### Top 3 Usability Problems
-1. Address bug discovered on deployed app in Edit Feeding Schedule page
-2. Make functionality of components more obvious through appearance/design
-3. Change submit and reset button's locations to be more natural
+1. [Address bug discovered on deployed app in Edit Feeding Schedule page](https://github.com/PetBite/app/issues/112)
+2. [Make functionality of components more obvious through appearance/design](https://github.com/PetBite/app/issues/113)
+3. [Change submit and reset button's locations to be more natural](https://github.com/PetBite/app/issues/114)
