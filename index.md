@@ -61,6 +61,7 @@ Users can log their pet's daily activities on this page. Logs are tracked in a s
     <img src="images/activity_log.png" alt="drawing" width="200"/>
     <img src="images/add_activity_log.png" alt="drawing" width="200"/>
     <img src="images/edit_activity_log.png" alt="drawing" width="200"/>
+    <img src="images/indiv_activity.png" alt="drawing" width="200"/>
 </p>
 
 * ### Detailed Activity Log Page
